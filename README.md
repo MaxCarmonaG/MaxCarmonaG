@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/Linkedin_bg_DnD.png" height="386" alt="banner"  />
+</div>
+
 <h2 align="center">Hello there ⚔️! I'm Max Carmona, a Front-end web developer based in London, ON, Canada</h2>
 
 ###
